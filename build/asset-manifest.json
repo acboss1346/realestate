@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/realestate/static/css/main.09cd7000.css",
+    "main.js": "/realestate/static/js/main.2516efd4.js",
+    "static/js/453.80f79c9c.chunk.js": "/realestate/static/js/453.80f79c9c.chunk.js",
+    "static/media/switzerland.jpg": "/realestate/static/media/switzerland.9f22b48202bc56fbe6f1.jpg",
+    "static/media/mountain4.jpg": "/realestate/static/media/mountain4.6bd7ebb64da829d001f5.jpg",
+    "static/media/travel.jpg": "/realestate/static/media/travel.803bbc4b9361cef7e7cb.jpg",
+    "static/media/service.jpg": "/realestate/static/media/service.cf9e9aa578b6f248e629.jpg",
+    "static/media/germany.jpg": "/realestate/static/media/germany.737b72cfb07b29d5895b.jpg",
+    "static/media/contact.jpg": "/realestate/static/media/contact.55840ae48918c7f21573.jpg",
+    "static/media/mountain2.jpg": "/realestate/static/media/mountain2.bfcccb2ae490845d3501.jpg",
+    "static/media/mountain1.jpg": "/realestate/static/media/mountain1.7f80ee79122c4d2e87a9.jpg",
+    "static/media/norway.jpg": "/realestate/static/media/norway.e67b09993613a5a1c425.jpg",
+    "static/media/mountain3.jpg": "/realestate/static/media/mountain3.1bed8e9f1a8cce686758.jpg",
+    "index.html": "/realestate/index.html",
+    "main.09cd7000.css.map": "/realestate/static/css/main.09cd7000.css.map",
+    "main.2516efd4.js.map": "/realestate/static/js/main.2516efd4.js.map",
+    "453.80f79c9c.chunk.js.map": "/realestate/static/js/453.80f79c9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09cd7000.css",
+    "static/js/main.2516efd4.js"
+  ]
+}
